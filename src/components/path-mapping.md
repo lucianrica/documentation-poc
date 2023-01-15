@@ -1,0 +1,1 @@
+reasearch path mapping react, needed @components path for imports
