@@ -5,7 +5,7 @@ import * as styles from '../../styles/introduction.module.css'
 export default function Projects() {
   return (
     <Layout>
-      <div classNam={styles.portfolio}>
+      <div className={styles.portfolio}>
         <h1>Projects /</h1>
         <h2>Projects /</h2>
         <h3>Projects /</h3>
